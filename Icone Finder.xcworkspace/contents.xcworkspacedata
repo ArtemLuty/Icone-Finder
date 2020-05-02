@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Icone Finder.xcodeproj">
+      location = "group:/Users/koristuvac/Desktop/Icone-Finder/Icone-Finder.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
